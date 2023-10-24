@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Lafel',
 	imageBackground: false,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: false,
 
 	// Greetings
