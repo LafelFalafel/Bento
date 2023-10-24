@@ -122,9 +122,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'osu! profile',
-			icon: 'circle',
-			link: 'https://osu.ppy.sh/users/19228199',
+			name: 'settings',
+			icon: 'settings',
+			link: 'about:preferences',
 		},
 	],
 
